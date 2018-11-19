@@ -1,5 +1,5 @@
 function setup(){
-    var newcanvas = createCanvas(400, 500);
+    var newcanvas = createCanvas(windowWidth/3, 500);
     newcanvas.parent("sketch2css");
     background(30, 196, 0);
 }

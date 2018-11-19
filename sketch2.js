@@ -1,6 +1,6 @@
 function setup(){
     var newcanvas = createCanvas(400, 500);
-    newcanvas.parent("sketch1css");
+    newcanvas.parent("sketch2css");
     background(30, 196, 0);
 }
 function draw(){
